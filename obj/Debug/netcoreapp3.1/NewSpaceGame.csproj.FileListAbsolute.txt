@@ -1,0 +1,12 @@
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/netcoreapp3.1/NewSpaceGame.deps.json
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/netcoreapp3.1/NewSpaceGame.runtimeconfig.json
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/netcoreapp3.1/NewSpaceGame.runtimeconfig.dev.json
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/netcoreapp3.1/NewSpaceGame.dll
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/netcoreapp3.1/NewSpaceGame.pdb
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.csprojAssemblyReference.cache
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.AssemblyInfoInputs.cache
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.AssemblyInfo.cs
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.csproj.CoreCompileInputs.cache
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.dll
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.pdb
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/netcoreapp3.1/NewSpaceGame.genruntimeconfig.cache
