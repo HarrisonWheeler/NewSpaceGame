@@ -1,0 +1,15 @@
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/net5.0/NewSpaceGame.deps.json
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/net5.0/NewSpaceGame.runtimeconfig.json
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/net5.0/NewSpaceGame.runtimeconfig.dev.json
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/net5.0/NewSpaceGame.dll
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/net5.0/ref/NewSpaceGame.dll
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/bin/Debug/net5.0/NewSpaceGame.pdb
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.csprojAssemblyReference.cache
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.AssemblyInfoInputs.cache
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.AssemblyInfo.cs
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.csproj.CoreCompileInputs.cache
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.dll
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/ref/NewSpaceGame.dll
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.pdb
+/Users/harrisonwheeler/source/codeworks-ta/firesides-demo/NewSpaceGame/obj/Debug/net5.0/NewSpaceGame.genruntimeconfig.cache

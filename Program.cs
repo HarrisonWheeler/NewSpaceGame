@@ -49,6 +49,7 @@ namespace NewSpaceGame
         Shop.Add(new Upgrade("Chris's Cheese PickAxe", "click", 1, 0, 1));
         Shop.Add(new Upgrade("George's Cheese Dagger", "click", 5, 0, 2));
         Shop.Add(new Upgrade("Darry's Drill", "click", 15, 0, 5));
+        Shop.Add(new Upgrade("Manda Miner", "click", 100, 0, 25));
 
         PlayGame();
       }
@@ -171,7 +172,7 @@ namespace NewSpaceGame
           message += $"\n {stat.Key}: {stat.Value}";
         }
         Console.WriteLine(message);
-        Console.ForegroundColor = ConsoleColor.DarkCyan;
+        Console.ForegroundColor = ConsoleColor.DarkMagenta;
       }
     }
   }
